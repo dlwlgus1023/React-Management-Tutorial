@@ -47,7 +47,7 @@ const customers =[{
 }
 
 ]
-
+  
 
 class App extends Component {
   render() {
@@ -58,7 +58,7 @@ class App extends Component {
           <TableHead>
             <TableRow>
               <TableCell>번호</TableCell>
-              <TableCell>이미지</TableCell>
+              <TableCell>사진</TableCell>
               <TableCell>이름</TableCell>
               <TableCell>생년월일</TableCell>
               <TableCell>성별</TableCell>
